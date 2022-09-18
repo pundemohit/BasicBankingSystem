@@ -1,0 +1,153 @@
+.nav{
+  background-color: #131433;
+}
+.nav-link{
+  color: #93b8cc;
+}
+.nav-link:hover{
+  color:  #6c6afc;
+  text-decoration: underline;
+
+}
+.nav-link-active{
+  color: #6c6afc;
+  display: inline-block;
+  background-color: black;
+  border-radius: 3px;
+}
+
+
+label.logo{
+  color: #131433;
+  margin: 8px;
+  background-color: #93b8cc;
+  font-weight: bold;
+  font-family:sans-serif;
+}
+
+body{
+  background-color: #93b8cc;
+}
+
+.formDiv{
+  background-color: #e8b5e1;
+  width: 38%;
+  height: 50%;
+  margin: auto;
+  margin-top: 3%;
+  border-radius: 10px ;
+  border: 1px solid #131433;
+  margin-bottom: 2%;
+}
+
+.FromToDiv{
+  margin-top: 0px;
+  width: 100%;
+  background-color: #a8d1f7;
+  font-size: 20px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bolder;
+  color:  #131433;
+}
+
+.Header{
+  color: #a8d1f7;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  width: 100%;
+  height: 80%;
+  background-color: #131433;
+  font-size: 25px;
+  text-align: center;
+  font-family: serif;
+}
+
+.form-control{
+  width: 70%;
+}
+
+.Button{
+  background-color: #131433;
+  color: #a8d1f7;
+  font-size: 18px;
+  border-radius: 6px;
+  margin-left: 120px;
+}
+
+.btn-group{
+  text-align: center;
+}
+.DropdownTable{
+  padding: 5%;
+  margin-left: 220px;
+}
+
+#dropdownMenu1{
+  width: 513px;
+  background-color: #131433;
+  color: #93b8cc;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+.copyright{
+  position:inherit;
+  font-size: 13px;
+  color: #2100a3;
+  margin-left: 60px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+table, th, td{
+  border: 1px solid;
+  width: 100%;
+}
+
+th{
+  height: 50%;
+}
+
+
+#AccName1{
+  width: 70%;
+  margin-left: 0px;
+}
+
+#AccName2{
+  width: 70%;
+  margin-left: 0px;
+}
+
+#dropdownMenu2{
+  width: 240px;
+  background-color: #131433;
+  color: #93b8cc;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+.Dropdown_Table2{
+  padding-top:  1%;
+  margin-left: 130px;
+}
+
+.dropdown-menu{
+  background-color:#e8b5e1;
+  color: #142642;
+  border: 1px solid black;
+  position:absolute;
+  width: 73%;
+}
+
+.table{
+  background-color:  #a8d1f7;
+
+  column-width: 30px;
+  table-layout: auto;
+}
+
+.e{
+  width: 240px;
+}

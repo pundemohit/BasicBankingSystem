@@ -1,0 +1,64 @@
+.nav{
+  background-color: #131433;
+}
+.nav-link{
+  color: #93b8cc;
+}
+.nav-link:hover{
+  color:  #6c6afc;
+  text-decoration: underline;
+
+}
+.nav-link-active{
+  color: #6c6afc;
+  display: inline-block;
+  background-color: black;
+  border-radius: 3px;
+}
+label.logo{
+  color: #131433;
+  margin: 8px;
+  background-color: #93b8cc;
+  font-weight: bold;
+  font-family:sans-serif;
+}
+.Header{
+  height: 50px;
+  font-size: 28px;
+  font-family: "Times New Roman", Times, Sans-serif;
+  font-weight:bolder;
+  color:  #131433;
+  text-align: center;
+  background-color: #93b8cc;
+}
+img{
+  width: 100%;
+  margin-top: 0px;
+  height: 380px;
+  padding-left: 40px;
+  padding-right:40px;
+  margin-bottom: 40px;
+  border-radius: 8%;
+}
+.imgDiv{
+  position: relative;
+  background-color: #93b8cc;
+}
+.imgText{
+  position: absolute;
+  top: 2%;
+  color: #93b8cc;
+  font-size: 20px;
+  text-transform:full-width;
+  margin-left: 380px;
+  text-shadow: 1px 1px blue;
+  font-family:inherit;
+}
+
+.copyright{
+  position: absolute;
+  bottom: 0;
+  font-size: 13px;
+  color: #2100a3;
+  margin-left: 400px;
+}
